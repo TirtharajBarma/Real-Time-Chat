@@ -1,7 +1,3 @@
-Sure, here's a basic README.md for your chat server project:
-
----
-
 # Real-Time Chat Website
 
 This project is a real-time chat website where users can communicate with each other instantly. It utilizes web sockets for real-time communication between clients and the server.
