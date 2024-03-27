@@ -1,0 +1,5 @@
+# Ignore Visual Studio Code workspace settings folder
+.vscode/
+
+# Ignore Node.js modules folder
+node_modules/
